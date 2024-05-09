@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|c:\\users\\ibrah\\source\\repos\\grocerystore\\grocerystore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|C:\\Users\\ibrah\\source\\repos\\GroceryStore\\grocerystore\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|C:\\Users\\ibrah\\source\\repos\\GroceryStore\\grocerystore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|C:\\Users\\ibrah\\source\\repos\\GroceryStore\\grocerystore\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|C:\\Users\\ibrah\\source\\repos\\GroceryStore\\grocerystore\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|C:\\Users\\ibrah\\source\\repos\\GroceryStore\\grocerystore\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC94121-C9D2-4555-9881-F860A535913E}|GroceryStore\\GroceryStore.csproj|solutionrelative:grocerystore\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\Form1.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\Form1.cs",
+              "RelativeToolTip": "GroceryStore\\Form1.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:14:26.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\ErrorHandler.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\ErrorHandler.cs",
+              "RelativeToolTip": "GroceryStore\\ErrorHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:38:23.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\Inventory.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\Inventory.cs",
+              "RelativeToolTip": "GroceryStore\\Inventory.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:37:34.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\InputValidator.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\InputValidator.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\InputValidator.cs",
+              "RelativeToolTip": "GroceryStore\\InputValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:37:59.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InventoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\InventoryItem.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\InventoryItem.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\InventoryItem.cs",
+              "RelativeToolTip": "GroceryStore\\InventoryItem.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T18:37:08.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\Form1.cs",
+              "RelativeDocumentMoniker": "GroceryStore\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\GroceryStore\\GroceryStore\\Form1.cs [Design]",
+              "RelativeToolTip": "GroceryStore\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:13:08.22Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

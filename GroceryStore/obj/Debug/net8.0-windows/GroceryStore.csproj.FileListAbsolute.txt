@@ -1,0 +1,17 @@
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\bin\Debug\net8.0-windows\GroceryStore.exe
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\bin\Debug\net8.0-windows\GroceryStore.deps.json
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\bin\Debug\net8.0-windows\GroceryStore.runtimeconfig.json
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\bin\Debug\net8.0-windows\GroceryStore.dll
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\bin\Debug\net8.0-windows\GroceryStore.pdb
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.Form1.resources
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.sourcelink.json
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.dll
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\refint\GroceryStore.dll
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.pdb
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\GroceryStore.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\GroceryStore\GroceryStore\obj\Debug\net8.0-windows\ref\GroceryStore.dll
